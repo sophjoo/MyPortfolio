@@ -12,7 +12,7 @@ If you would like to work together, please reach out to me by [email](mailto:sop
 * Improved data quality by transforming and smoothing splining variables based on key observations from exploratory data analysis.
 * Demonstrated how reducing metabolic rate increased a specie's lifespan by using 1000 bootstrap iterations and their confidence intervals. 
 * Evaluated models by computing cross-validation errors and bootstrapping. 
-* 
+
 ### [Project 2: Analyzing NBA Players Statistics (RAPTORS)](https://sophjoo.github.io/NBA_RAPTOR_Report/NBA_RAPTOR_Report.html)
 * Collaborated in a team of three to examine 4684 NBA players with 23 variables by using data visualisations (ggplot2).
 * Identified associations between metrics in relation to ball possessions, season types, and player statistics with player and team’s performance.
