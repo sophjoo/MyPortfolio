@@ -7,7 +7,13 @@ If you would like to work together, please reach out to me by [email](mailto:sop
 
 ## Exploratory Data Analysis, Data Visualizations, Modelling 
 
-### [Project 1: Analyzing NBA Players Statistics (RAPTORS)](https://sophjoo.github.io/NBA_RAPTOR_Report/NBA_RAPTOR_Report.html)
+### [Project 1: Searching a Way to Increase Lifespan with Metabolic Rates](https://sophjoo.github.io/MetabolicRates/Report.html)
+* Built linear models with R to predict lifespan from metabolic rates based on AnAge Database of 347 observations with 14 variables
+* Improved data quality by transforming and smoothing splining variables based on key observations from exploratory data analysis.
+* Demonstrated how reducing metabolic rate increased a specie's lifespan by using 1000 bootstrap iterations and their confidence intervals. 
+* Evaluated models by computing cross-validation errors and bootstrapping. 
+* 
+### [Project 2: Analyzing NBA Players Statistics (RAPTORS)](https://sophjoo.github.io/NBA_RAPTOR_Report/NBA_RAPTOR_Report.html)
 * Collaborated in a team of three to examine 4684 NBA players with 23 variables by using data visualisations (ggplot2).
 * Identified associations between metrics in relation to ball possessions, season types, and player statistics with player and team’s performance.
 * Presented to statisticians on our comprehensive findings from assessing side-by-side box plots, scatterplots, contour maps, dendrograms, MDS plots, and pair plots.    
@@ -15,11 +21,6 @@ If you would like to work together, please reach out to me by [email](mailto:sop
 #### Preview of a few of the data visualizations: 
 ![images](/images/NBA_contour.png)![](/images/NBA_boxplot.png)
 
-### [Project 2: Searching a Way to Increase Lifespan with Metabolic Rates](https://sophjoo.github.io/MetabolicRates/Report.html)
-* Built linear models with R to predict lifespan from metabolic rates based on AnAge Database of 347 observations with 14 variables
-* Improved data quality by transforming and smoothing splining variables based on key observations from exploratory data analysis.
-* Demonstrated how reducing metabolic rate increased a specie's lifespan by using 1000 bootstrap iterations and their confidence intervals. 
-* Evaluated models by computing cross-validation errors and bootstrapping. 
 
 ### [Project 3: The Association of Air Pollutants and Mortality](https://sophjoo.github.io/Air_Pollutants/report.html)
 * Processed a dataset about air quality and death rates in Chicago: 5114 observations with 6 variables (removed NA / unworkable observations). 
