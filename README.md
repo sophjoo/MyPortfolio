@@ -1,6 +1,6 @@
 # About Me 
 
-Hi! My name is Sophia Lee, and I am a recent graduate of Carnegie Mellon University in May 2021 with a B.S. in Statistics and Machine Learning. I specialize in breaking down data to find patterns, conclude comprehensive analysis, and implementing data visualizations. I aspire to work for a company with values and goals I am aligned with, and I can make meaningful contributions by reporting key insights on data to improve outcomes and make correct decisions. I am confidently skilled in Python, R, MySQL, and Tableau. 
+Hi! My name is Sophia Lee, and I am a recent graduate of Carnegie Mellon University in May 2021 with a B.S. in Statistics and Machine Learning. I specialize in breaking down data to find patterns, create data visualizations, and make comprehensive analysis on them. I aspire to work for a company with values and goals I am aligned with, and I can make meaningful contributions by reporting key insights on data to improve outcomes and make correct decisions. I am confidently skilled in Python, R, MySQL, and Tableau. 
 
 If you would like to work together, please reach out to me by [email](mailto:sophiale@andrew.cmu.edu) or [LinkedIn](https://www.linkedin.com/in/sophialeejy/).
 
