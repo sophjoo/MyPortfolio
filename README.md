@@ -8,7 +8,7 @@
 * Presented to statisticians on our comprehensive findings from assessing side-by-side box plots, scatterplots, contour maps, dendrograms, MDS plots, and pair plots.    
 
 #### Preview of a few of the data visualizations: 
-![alt text](https://github.com/sophjoo/Portfolio/blob/main/images/NBA_contour.png) ![](https://github.com/sophjoo/Portfolio/blob/main/images/NBA_boxplot.png)
+![](/images/NBA_contour.png) ![](/images/NBA_boxplot.png)
 
 ### [Project 2: Searching a Way to Increase Lifespan with Metabolic Rates](https://sophjoo.github.io/MetabolicRates/Report.html)
 * Built linear models with R to predict lifespan from metabolic rates based on AnAge Database of 347 observations with 14 variables
