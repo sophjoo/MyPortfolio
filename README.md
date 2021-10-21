@@ -14,7 +14,7 @@ If you would like to work together, please reach out to me by [email](mailto:sop
 * Evaluated models by computing cross-validation errors and bootstrapping. 
 
 ### [Project 2: Analyzing NBA Players Statistics (RAPTORS)](https://sophjoo.github.io/NBA_RAPTOR_Report/NBA_RAPTOR_Report.html)
-* Collaborated in a team of three to examine 4684 NBA players with 23 variables by using data visualisations (ggplot2).
+* Collaborated in a team of three to examine 570 NBA players with 23 variables by using data visualisations (ggplot2).
 * Identified associations between metrics in relation to ball possessions, season types, and player statistics with player and team’s performance.
 * Presented to statisticians on our comprehensive findings from assessing side-by-side box plots, scatterplots, contour maps, dendrograms, MDS plots, and pair plots.    
 
